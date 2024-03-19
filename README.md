@@ -2,22 +2,11 @@
 
 <!--
 **darina6688/darina6688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
 I'm Darina, from Moscow.  
-I like to work with data and analytics, searching for the most important metrics, visualizing them and presenting the results of work.  
+I love working with data, processing and analyzing it to identify patterns and trends, searching for the most important metrics, and also visualizing them and presenting the results of my work.  
 I'd like to expand my knowledge of Python and SQL, using these skills in data analysis and solving different global and interesting problems.  
 Now I am currently studing on Karpov.courses for «Data Analyst».  
 
@@ -32,7 +21,7 @@ __________
                            
 **Technical Stack:**   
 
-💾 **Databases:** ClickHouse, PostgreSQL
+💾 **Databases:** ClickHouse, PostgreSQL, My SQL
 
 📋 **Languages:** Python, My SQL
 
@@ -49,4 +38,10 @@ _____________
 **Courses:** Karpov.courses (since December, 2023)
 
 **My CV:**  [Gazizova_DG_Analyst.pdf](https://github.com/darina6688/About-Me/files/14646500/Gazizova_DG_Analyst.pdf)  
+
+__________
+
+In my free time I broaden my horizons by reading books, studying English and German, and of course, the best activity is travelling.  
+I believe that being an analyst helps people to make better decisions and improve their lives. Data analyst is a profession that requires a lot of effort and knowledge, but it also brings great satisfaction and joy in achieving results.  
+
 
