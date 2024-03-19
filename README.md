@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Darina, from Moscow.
-I like to work with data and analytics, searching for the most important metrics, visualizing them and presenting the results of work.
-I'd like to expand my knowledge of Python and SQL, using these skills in data analysis and solving different global and interesting problems.
-Now I am currently studing on Karpov.courses for «Data Analyst».
+I'm Darina, from Moscow.  
+I like to work with data and analytics, searching for the most important metrics, visualizing them and presenting the results of work.  
+I'd like to expand my knowledge of Python and SQL, using these skills in data analysis and solving different global and interesting problems.  
+Now I am currently studing on Karpov.courses for «Data Analyst».  
 
 In this profile I post my tasks and projects, that I solved during my studies.
 
