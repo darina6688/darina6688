@@ -38,10 +38,15 @@ _____________
 **Courses:** Karpov.courses (since December, 2023)
 
 **My CV:**  [Gazizova_DG_Analyst.pdf](https://github.com/darina6688/About-Me/files/14646500/Gazizova_DG_Analyst.pdf)  
+_________
+
+**_Links to my training dashboards:_**  
+http://redash.lab.karpov.courses/public/dashboards/6HBK4cifXRmab9lIRgTr4GktIkhi1BRi1uUWBO41?org_slug=default   
+
+https://public.tableau.com/views/practice_lesson2/vacancy_hh?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link  
 
 __________
 
-In my free time I broaden my horizons by reading books, studying English and German, and of course, the best activity is travelling.  
 I believe that being an analyst helps people to make better decisions and improve their lives. Data analyst is a profession that requires a lot of effort and knowledge, but it also brings great satisfaction and joy in achieving results.  
-
+In my free time I broaden my horizons by reading books, studying English and German, and of course, the best activity for me is travelling.  
 
