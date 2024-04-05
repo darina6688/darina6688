@@ -44,14 +44,15 @@ _____________
 
 _________
 
-**_Links to my training dashboards:_**  
+**Links to my training dashboards:**  
 http://redash.lab.karpov.courses/public/dashboards/6HBK4cifXRmab9lIRgTr4GktIkhi1BRi1uUWBO41?org_slug=default   
 
 https://public.tableau.com/views/practice_lesson2/vacancy_hh?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link  
 
 ________________
 
-📖 My projects:
+📖 **My projects:**  
 
-During my studies in the Data Analyst course and project activities, I completed about N projects. Here I collected the most interesting ones.  
-... in progress ...
+During my studies in the Data Analyst course and project activities, I completed about NN projects. Here I collected the most interesting ones.  
+
+... is in progress ...
