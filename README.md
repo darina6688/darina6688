@@ -53,6 +53,6 @@ ________________
 
 📖 **My projects:**  
 
-During my studies in the Data Analyst course and project activities, I completed about NN projects. Here I collected the most interesting ones.  
+During my studies in the Data Analyst course and project activities, I completed more than 20 projects. Here I collected the most interesting ones.  
 
 ... is in progress ...
