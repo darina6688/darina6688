@@ -49,6 +49,8 @@ http://redash.lab.karpov.courses/public/dashboards/6HBK4cifXRmab9lIRgTr4GktIkhi1
 
 https://public.tableau.com/views/practice_lesson2/vacancy_hh?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link  
 
+https://public.tableau.com/app/profile/darina.gazizova/viz/Karpov_Inn/Dashboard2  
+
 ________________
 
 📖 **My projects:**  
