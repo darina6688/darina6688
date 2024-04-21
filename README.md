@@ -40,7 +40,8 @@ _____________
 
 **Courses:** Karpov.courses (since December, 2023)
 
-**My CV:**   [Gazizova_DG_Data_Analyst.pdf](https://github.com/darina6688/darina6688/files/14881809/Gazizova_DG_Data_Analyst.pdf)
+**My CV:**   [Gazizova_Darina_Analyst.pdf](https://github.com/darina6688/darina6688/files/15052915/Gazizova_Darina_Analyst.pdf)
+
 
 _________
 
@@ -57,4 +58,14 @@ ________________
 
 During my studies in the Data Analyst course and project activities, I completed more than 20 projects. Here I collected the most interesting ones.  
 
-... is in progress ...
+... is in progress ...  
+
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
+|[Проект e-learning](https://github.com/darina6688/Python/tree/main/First%20Project) | Исследование образовательной платформы с курсами и данными по студентам, анализ успеваемости студентов. Проведен разведочный анализ данных (EDA), а также RFM-анализ, разделенгие студентов на категории. |**Pandas, Numpy, Seaborn, Requests** |
+|[Отток водителей в сервисе такси](https://github.com/darina6688/Statistics/blob/main/stat_taxi_churn.ipynb) |Анализ данных такси-компании по водителям и их оттоку, проверка гипотез, принятие решений о необходимых изменениях. |**Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels** |
+|[Приложение знакомств](https://github.com/darina6688/Statistics/blob/main/ab_proj_dating.ipynb) |Проверка алгоритма поиска анкет, проведение АБ-теста, выводы о влиянии изменений на качество сервиса |**Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels**  |
+|[Приложение доставки](https://github.com/darina6688/Statistics/blob/main/ab_proj_delivery.ipynb) |Проверка эффективности рекомендательной системы приложения, проведение АБ-теста, выбор и сравнение метрик. |**Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels**  |
+|Дашборды [Вакансии](https://public.tableau.com/app/profile/darina.gazizova/viz/practice_lesson2/vacancy_hh) и [Hospitality](https://public.tableau.com/app/profile/darina.gazizova/viz/Karpov_Inn/Dashboard2)|Подключение к БД, построение графиков, верстка дашборда |**Tableau**|  
+|Проект  ...in progress... |Проведение АБ-теста образовательной платформы, анализ метрик, написание функции для автоматической подгрузки информации и для автоматической загрузки графиков. | **Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels** |
+
