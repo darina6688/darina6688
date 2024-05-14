@@ -85,5 +85,5 @@ During my studies in the Data Analyst course and project activities, I completed
 |[Приложение доставки](https://github.com/darina6688/Statistics/blob/main/ab_proj_delivery.ipynb) |Проверка эффективности рекомендательной системы приложения, проведение АБ-теста, выбор и сравнение метрик. |**Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels**  |
 |Дашборд [Avocado sales in USA](http://redash.lab.karpov.courses/public/dashboards/6HBK4cifXRmab9lIRgTr4GktIkhi1BRi1uUWBO41?org_slug=default)|Подключение к БД, выполнение запроса SQL, построение графиков, составление дашборда |**Redash**|  
 |Дашборды [Вакансии](https://public.tableau.com/app/profile/darina.gazizova/viz/practice_lesson2/vacancy_hh) и [Hospitality](https://public.tableau.com/app/profile/darina.gazizova/viz/Karpov_Inn/Dashboard2)|Подключение к БД, построение графиков, верстка дашборда |**Tableau**|
-|Проект  ...in progress... |Проведение АБ-теста образовательной платформы, анализ метрик, написание функции для автоматической подгрузки информации и для автоматической загрузки графиков. | **Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels** |
+|Проект образовательной платформы |Проведение АБ-теста образовательной платформы, анализ метрик, написание функции для автоматической подгрузки информации и для автоматической загрузки графиков. | **Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels** |
 
