@@ -61,6 +61,7 @@ _____________
 | Название курса | Ссылка на сертификат| 
 |----------------|-----------------|
 |Karpov.courses "Аналитик данных" |study since December, 2023|
+|"Симулятор SQL" (Karpov.courses) |https://lab.karpov.courses/certificate/14dc3eec-554f-4453-bae0-117e72c6ff1b/en/ |
 |"Поколение Python": курс для начинающих |https://stepik.org/cert/2118143 |
 |"Поколение Python": курс для продвинутых |https://stepik.org/cert/2188013 |
 |Начальный курс SQL: от Новичка до Специалиста |https://stepik.org/cert/2224122 |
