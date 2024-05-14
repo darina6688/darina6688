@@ -8,7 +8,7 @@
 I'm Darina, from Moscow.  
 I love working with data, processing and analyzing it to identify patterns and trends, searching for the most important metrics, and also visualizing them and presenting the results of my work.  
 I'd like to expand my knowledge of Python and SQL, using these skills in data analysis and solving different global and interesting problems.  
-Now I am currently studing on Karpov.courses for «Data Analyst».  
+Recently I've completed studing on Karpov.courses for «Data Analyst».  
 
 In this profile I post my projects, that I solved during my studies and also my future pet-projects.  
 
