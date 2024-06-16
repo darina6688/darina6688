@@ -10,7 +10,7 @@ I love working with data, processing and analyzing it to identify patterns and t
 I'd like to expand my knowledge of Python and SQL, using these skills in data analysis and solving different global and interesting problems.  
 Recently I've completed studing on Karpov.courses for «Data Analyst».  
 
-In this profile I post my projects, that I solved during my studies and also my future pet-projects.  
+In this profile I post my projects, that I've solved during my studies and also my pet-projects.  
 
 I believe that being an analyst helps people to make better decisions and improve their lives. Data analyst is a profession that requires a lot of effort and knowledge, but it also brings great satisfaction and joy in achieving results.  
 In my free time I broaden my horizons by reading books, studying English and German, and of course, the best activity for me is travelling.  
@@ -85,5 +85,5 @@ During my studies in the Data Analyst course and project activities, I completed
 |[Приложение доставки](https://github.com/darina6688/Statistics/blob/main/ab_proj_delivery.ipynb) |Проверка эффективности рекомендательной системы приложения, проведение АБ-теста, выбор и сравнение метрик. |**Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels**  |
 |Дашборд [Avocado sales in the USA](https://github.com/darina6688/SQL/blob/main/Визуализация%20в%20redash.md)|Подключение к БД, выполнение запроса SQL, построение графиков, составление дашборда |**Redash**|  
 |Дашборды [Вакансии](https://public.tableau.com/app/profile/darina.gazizova/viz/practice_lesson2/vacancy_hh) и [Hospitality](https://public.tableau.com/app/profile/darina.gazizova/viz/Karpov_Inn/Dashboard2)|Подключение к БД, построение графиков, верстка дашборда |**Tableau**|
-|Проект образовательной платформы |Проведение АБ-теста образовательной платформы, анализ метрик, написание функции для автоматической подгрузки информации и для автоматической загрузки графиков. | **Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels** |
+|[Проект образовательной платформы](https://github.com/darina6688/EduPlatform_Project/blob/main/edtech_project.ipynb) |Проведение АБ-теста образовательной платформы, анализ метрик, написание функции для автоматической подгрузки информации и для автоматической загрузки графиков. | **Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels** |
 
