@@ -69,6 +69,7 @@ _____________
 |Интерактивный тренажер по SQL |https://stepik.org/cert/2350013 |
 |Основы статистики |https://stepik.org/cert/2233562 |
 |Microsoft Excel с НУЛЯ |https://stepik.org/cert/2124688 |
+|BI-конкурс от AW "Покажи смысл" |[cert_AW.pdf](https://github.com/user-attachments/files/16408976/cert_AW.pdf) |
 
 ________________
 
