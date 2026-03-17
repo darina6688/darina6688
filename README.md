@@ -8,7 +8,7 @@
 I'm Darina, from Moscow.  
 I love working with data, processing and analyzing it to identify patterns and trends, searching for the most important metrics, and also visualizing them and presenting the results of my work.  
 I'd like to expand my knowledge of Python and SQL, using these skills in data analysis and solving different global and interesting problems.  
-Recently I've completed studing on Karpov.courses for «Data Analyst».  
+2 years ago I've completed studing on Karpov.courses for «Data Analyst».  
 
 In this profile I post my projects, that I've solved during my studies and also my pet-projects.  
 
@@ -22,8 +22,8 @@ https://t.me/darina_geo
    
 
 
-**My CV:**   [Darina_Gazizova_DataAnalyst.pdf](https://github.com/user-attachments/files/16408810/Darina_Gazizova_DataAnalyst.pdf)
-            
+**My CV:**   [DarinaG_DataAnalyst.pdf](https://github.com/user-attachments/files/26047335/DarinaG_DataAnalyst.pdf)
+           
 __________            
 
                            
