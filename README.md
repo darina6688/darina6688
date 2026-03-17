@@ -48,6 +48,8 @@ __________
 
 - 🎨 **Visualization:**  
 
+
+![Power BI](https://img.shields.io/badge/PowerBI-838485?style=for-the-badge&logo=PowerBI&logoColor=white)
 ![Redash](https://img.shields.io/badge/Redash-838485?style=for-the-badge&logo=redash&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-838485?style=for-the-badge&logo=Tableau&logoColor=white)
 
