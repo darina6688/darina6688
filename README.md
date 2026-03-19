@@ -67,27 +67,21 @@ _____________
 |"Симулятор SQL" (Karpov.courses) |https://lab.karpov.courses/certificate/14dc3eec-554f-4453-bae0-117e72c6ff1b/en/ |
 |"Поколение Python": курс для начинающих |https://stepik.org/cert/2118143 |
 |"Поколение Python": курс для продвинутых |https://stepik.org/cert/2188013 |
-|Начальный курс SQL: от Новичка до Специалиста |https://stepik.org/cert/2224122 |
 |Интерактивный тренажер по SQL |https://stepik.org/cert/2350013 |
 |Основы статистики |https://stepik.org/cert/2233562 |
-|Microsoft Excel с НУЛЯ |https://stepik.org/cert/2124688 |
 |BI-конкурс от Analytic Workspace "Покажи смысл" |[cert_AW.pdf](https://github.com/user-attachments/files/16408976/cert_AW.pdf) |
 
 ________________
 
 ### 📖 **My projects:**  
-
-During my studies in the Data Analyst course and project activities, I completed more than 20 projects. Here I collected the most interesting ones.  
-
-... is in progress ...  
+ 
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |[Проект e-learning](https://github.com/darina6688/Python/tree/main/First%20Project) | Исследование образовательной платформы с курсами и данными по студентам, анализ успеваемости студентов. Проведен разведочный анализ данных (EDA), а также RFM-анализ, разделение студентов на категории. |**Pandas, Numpy, Seaborn, Requests** |
 |[Отток водителей в сервисе такси](https://github.com/darina6688/Statistics/blob/main/stat_taxi_churn.ipynb) |Анализ данных такси-компании по водителям и их оттоку, проверка гипотез, принятие решений о необходимых изменениях. |**Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels** |
 |[Приложение знакомств](https://github.com/darina6688/Statistics/blob/main/ab_proj_dating.ipynb) |Проверка алгоритма поиска анкет, проведение АБ-теста, выводы о влиянии изменений на качество сервиса |**Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels**  |
-|[Приложение доставки](https://github.com/darina6688/Statistics/blob/main/ab_proj_delivery.ipynb) |Проверка эффективности рекомендательной системы приложения, проведение АБ-теста, выбор и сравнение метрик. |**Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels**  |
-|Дашборд [Avocado sales in the USA](https://redash.lab.karpov.courses/public/dashboards/6HBK4cifXRmab9lIRgTr4GktIkhi1BRi1uUWBO41)|Подключение к БД, выполнение запроса SQL, построение графиков, составление дашборда |**Redash**|  
+|[Приложение доставки](https://github.com/darina6688/Statistics/blob/main/ab_proj_delivery.ipynb) |Проверка эффективности рекомендательной системы приложения, проведение АБ-теста, выбор и сравнение метрик. |**Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels**  | 
 |Дашборды [Вакансии](https://public.tableau.com/app/profile/darina.gazizova/viz/practice_lesson2/vacancy_hh) и [Hospitality](https://public.tableau.com/app/profile/darina.gazizova/viz/Karpov_Inn/Dashboard2)|Подключение к БД, построение графиков, верстка дашборда |**Tableau**|
 |[Проект образовательной платформы](https://github.com/darina6688/EduPlatform_Project/blob/main/edtech_project.ipynb) |Проведение АБ-теста образовательной платформы, анализ метрик, написание функции для автоматической подгрузки информации и для автоматической загрузки графиков. | **Pandas, Numpy, Seaborn, SciPy, Pingouin, Statsmodels** |
 |Дашборд  ["Бронирования и выручка Авиасейлс"](https://github.com/user-attachments/assets/62c9443f-9b94-4a6b-b5de-5274ac462f79) |Дашборд разрабатывался в рамках конкурса от Analytic Workspace "Покажи смысл". Подключение к БД, выполнение запроса SQL, построение графиков, верстка дашборда |**Analytic Workspace**|  
